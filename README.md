@@ -15,5 +15,6 @@
 - C++
 ## Contats
 - Email: dsilva20032018@gmail.com
+- Phone: +55(21)9 7660-1866
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dhominipereira)
