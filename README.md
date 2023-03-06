@@ -9,12 +9,13 @@
 
 🎯 My goal is to one day become a FullStack Developer Junior.
 ## 🛠 Dominated Technologies
-- NodeJS (Express & Socket.io)
+- JavaScript (NodeJS)
 - MongoDB
-- FireBase
-- C++
+- HTML5
+- CSS3
+- SQL
 ## Contats
 - Email: dsilva20032018@gmail.com
-- Phone: +55(21)9 7660-1866
+- Phone: +55(21)97740-4039
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dhominipereira)
