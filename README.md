@@ -46,7 +46,18 @@
   <a href="https://www.instagram.com/dh_pereira03" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+  <a href="https://discord.com/users/368552464070344704" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/dh-pereira/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Dh-Pe/Dh-Pe/output/snake.svg" alt="Snake animation" />
+
+###
