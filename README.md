@@ -1,3 +1,4 @@
+<img align='center' src="https://media.licdn.com/dms/image/D4D16AQEVBdUgTbx_tQ/profile-displaybackgroundimage-shrink_350_1400/0/1721147003750?e=1726704000&v=beta&t=8Mm3o45S2EZgz794b4nMMz_4ReTLvTwrq3B930S3gD4">
 <h2> Hi, I'm Dhomini Pereira! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://github.com/dhomini-pereira.png" width="230">
 <p><em>Science Computer at <a href="http://www.estacio.br">Estacio de Sa University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
