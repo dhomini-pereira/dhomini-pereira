@@ -12,7 +12,7 @@ Estagiário de Desenvolvimento Fullstack na <a href="https://www.brasilcap.com.b
 
 ```js
 const dhomini = {
-  pronouns: "he" | "her" | "ele" | "Dele",
+  pronouns: "he" | "him" | "ele" | "Dele",
   code: [Javascript, Typescript, HTML, CSS, Java, Python, Rust],
   tools: [React, Node, Angular, Next, Jest, Docker],
   architecture: ["microservices", "design system pattern"],
