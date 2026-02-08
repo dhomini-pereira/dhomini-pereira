@@ -1,24 +1,66 @@
-<img align='center' src="https://media.licdn.com/dms/image/D4D16AQEVBdUgTbx_tQ/profile-displaybackgroundimage-shrink_350_1400/0/1721147003750?e=1726704000&v=beta&t=8Mm3o45S2EZgz794b4nMMz_4ReTLvTwrq3B930S3gD4">
-<img align='right' src="https://github.com/dhomini-pereira.png" width="230">
-<p><em>Cientista da Computação da <a href="http://www.estacio.br">Universidade Estacio de Sá</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-Estagiário de Desenvolvimento Fullstack na <a href="https://www.brasilcap.com.br/brasilcap/brasilcap.html">Brasilcap Capitalização S/A</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<div align="center">
+  <img src="https://github.com/dhomini-pereira.png" width="180" style="border-radius: 50%" />
+  
+  <h2>Olá, eu sou o Dhomini 👋</h2>
+  
+  <p>
+    🎓 Bacharel em Ciência da Computação — 
+    <a href="http://www.estacio.br" target="_blank">Universidade Estácio de Sá</a>
+    <br/>
+    💼 Engenheiro de Software Pleno —
+    <a href="https://iblueconsulting.com.br/" target="_blank">IBlue Consulting LTDA</a>
+  </p>
 
-[![Linkedin: Dhomini](https://img.shields.io/badge/dhomini-pereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dh-pereira/)](https://www.linkedin.com/in/dh-pereira/)
-[![GitHub Dhomini](https://img.shields.io/github/followers/dhomini-pereira?label=follow&style=social)](https://github.com/dhomini-pereira)
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco mais sobre mim...
-
-```js
-const dhomini = {
-  pronouns: "he" | "him" | "ele" | "Dele",
-  code: [Javascript, Typescript, HTML, CSS, Java, Python, Rust],
-  tools: [React, Node, Angular, Next, Jest, Docker],
-  architecture: ["microservices", "design system pattern"],
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Adoro me conectar com pessoas diferentes</b> então se você quiser dizer <b>oi, ficarei feliz em conhecê-lo mais vezes!</b> :)</em>
+  <p>
+    <a href="https://www.linkedin.com/in/dh-pereira/">
+      <img src="https://img.shields.io/badge/LinkedIn-dhomini--pereira-blue?style=for-the-badge&logo=linkedin"/>
+    </a>
+    <a href="https://github.com/dhomini-pereira">
+      <img src="https://img.shields.io/github/followers/dhomini-pereira?label=Follow&style=for-the-badge"/>
+    </a>
+  </p>
+</div>
 
 ---
+
+### 🚀 Sobre mim
+
+```ts
+const dhomini = {
+  pronouns: ["ele", "dele"],
+  languages: [
+    "JavaScript",
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "Java",
+    "Python",
+    "Rust"
+  ],
+  tools: [
+    "React",
+    "Next.js",
+    "Angular",
+    "Node.js",
+    "Jest",
+    "Docker"
+  ],
+  architecture: [
+    "Microservices",
+    "Design Systems"
+  ],
+  interests: [
+    "Clean Code",
+    "Software Architecture",
+    "Performance",
+    "DX"
+  ]
+};
+```
+
+<div align="center">
+  <i>
+    Gosto de me conectar com pessoas diferentes.<br/>
+    Se quiser trocar uma ideia ou só dizer um oi, fique à vontade 😄
+  </i>
+</div>
